@@ -1,1 +1,1 @@
-# Pet-Shop-Landing-Page
+# Pet-Store-Landing-Page
